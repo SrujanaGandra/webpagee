@@ -1,0 +1,41 @@
+.explore{
+    background-color: rgb(233, 221, 244);
+    height: 500px;
+}
+h2{
+    margin: 18px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: rgb(224, 100, 6);
+    font-size: 27px;
+}
+.cards-border{
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: whitesmoke;
+    height: 150px;
+    width:150px;
+    padding: 10px;
+}
+.cards:hover{
+    background-color:orange;
+}
+span img{
+    height:80px;
+    width:80px; 
+    margin: 10px;
+}
+.recipes{
+    display: flex;
+    justify-content: center;
+    gap:10px;
+    margin: 20px;
+}

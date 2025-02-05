@@ -1,0 +1,22 @@
+.banner{
+    font-size: 18px;
+    color: orange;
+    font-family:sans-serif;
+    font-weight: lighter;
+    margin: 20px;
+ }
+ .carousel-inner{
+    display: flex;
+    gap:20px;
+   justify-content: space-evenly;
+
+}
+
+.food img{
+    height:400px;
+    width:300px;
+}
+h3{
+    font-size: 23px;
+    color:purple;
+}
